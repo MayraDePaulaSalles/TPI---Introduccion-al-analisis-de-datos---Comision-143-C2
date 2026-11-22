@@ -17,6 +17,8 @@ El objetivo es explorar los datos para identificar patrones y posibles factores 
 ## Tecnologías y Librerias utilizadas
 - **Python:** lenguaje de programación utilizado para implementar estructuras de control y operaciones auxiliares durante el análisis.
 - **Pandas:** biblioteca principal para la carga, limpieza, manipulación y análisis de los datos.
+- **Matplotlib:** libreria de vizualización para crear y personalizar los gráficos.
+- **Seaborn:** es otra libreria de vizualización para el análisis estadístico de datos.
 - **Google Colab:** entorno de desarrollo utilizado para ejecutar el código del proyecto y trabajar con notebooks de Python.
 
 ## Estructura del repositorio
