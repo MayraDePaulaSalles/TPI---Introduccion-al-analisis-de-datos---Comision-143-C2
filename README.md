@@ -20,17 +20,5 @@ El objetivo es explorar los datos para identificar patrones y posibles factores 
 - **Google Colab:** entorno de desarrollo utilizado para ejecutar el código del proyecto y trabajar con notebooks de Python.
 
 ## Estructura del repositorio
-```text
-TPI---Introduccion-al-analisis-de-datos/
-│
-├── data/
-│   ├── raw/
-│   │   └── Telco-Customer-Churn.csv
-│   │
-│   └── processed/
-│
-├── analisis.ipynb
-│
-└── README.md
-```
+
 ## ¿Cómo explorar el proyecto?
